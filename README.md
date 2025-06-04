@@ -43,6 +43,7 @@ odin-WeatherApp/
 ## Tecnologias Utilizadas
 
 - **JavaScript (ES6+)**: Para a lógica do aplicativo.
+- **API**: Visual Crossing Weather API.
 - **Webpack**: Para empacotamento e servidor de desenvolvimento.
 - **Babel**: Para compatibilidade com navegadores antigos.
 - **ESLint**: Para linting e manutenção da qualidade do código, usando Flat Config.
@@ -105,7 +106,6 @@ Siga estas etapas para rodar o projeto localmente:
 - **Acessibilidade**: Adicionar atributos `aria-label` para melhorar a acessibilidade.
 - **Cache Local**: Implementar armazenamento em `localStorage` para salvar os dados mais recentes.
 - **Testes**: Adicionar testes unitários com Jest para as funções principais.
-- **API Real**: Integrar uma API pública de previsão do tempo, como OpenWeatherMap.
 
 ## Contribuição
 
