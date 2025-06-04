@@ -1,7 +1,7 @@
 {
   "name": "odin-weatherapp",
   "version": "1.0.0",
-  "main": "weather.js",
+  "main": "src/index.js",
   "homepage": "https://Thisaraiva.github.io/odin-weatherapp",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
