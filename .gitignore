@@ -1,0 +1,28 @@
+# Dependências do Node.js
+node_modules/
+
+# Pasta de build gerada pelo Webpack
+dist/
+
+# Arquivo de lock do npm (opcional, remova esta linha se quiser versioná-lo)
+package-lock.json
+
+# Arquivos de ambiente (ex.: chaves de API)
+.env
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDE
+.vscode/
+.idea/
+
+# Logs e caches do npm
+npm-debug.log*
+yarn-error.log
+
+# Arquivos temporários
+*.log
+*.tmp
+*.cache
